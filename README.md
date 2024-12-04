@@ -1,4 +1,6 @@
 ## Hi there 👋
+PhD student in CS at the University of Houston. I specialize in leveraging **Knowledge Graphs, LLMs, Explainable AI, and AI Privacy** to tackle complex challenges in Natural Language Processing, Machine Learning, and Science.
+
 
 <!--
 **mahir-Droid/mahir-Droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
