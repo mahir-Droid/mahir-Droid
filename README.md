@@ -1,5 +1,5 @@
 ## Hi there 👋
-PhD student in CS at the University of Houston. I specialize in leveraging **Knowledge Graphs, LLMs, Explainable AI, and AI Privacy** to tackle complex challenges in Natural Language Processing, Machine Learning, and Science.
+PhD student in CS at the University of Houston. I specialize in leveraging **Knowledge Graphs, LLMs, Trustworthy AI, Explainable AI, and AI Privacy** to tackle complex challenges in Natural Language Processing, Machine Learning, and Science.
 
 
 <!--
